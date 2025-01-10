@@ -1,0 +1,10 @@
+sys
+pandas
+pickle
+re
+lyricsgenius
+scipy
+numpy
+tkinter
+customtkinter
+pytest
