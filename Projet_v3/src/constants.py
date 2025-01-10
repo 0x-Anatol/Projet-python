@@ -2,7 +2,7 @@ import pandas as pd
 from src.Corpus import Corpus
 # permet d'afficher dans la console des logs
 # 0 = silencieux, 1 = affichage
-DEBUG = 1
+DEBUG = 0
 
 # liste des artistes de base:
 artistes = ["Angèle", "Clara Luciani", "Louane", "Vianney", "Aya Nakamura", "Stromae", "Julien Doré", "Gims", "Soprano", "Zaz"]
